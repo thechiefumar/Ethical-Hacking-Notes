@@ -1,5 +1,5 @@
 # Ethical-Hacking-Notes
-Becoming an ethical hacker is a great goal — it’s a challenging and rewarding field that combines cybersecurity skills with a strong sense of responsibility. Here's a breakdown of **what you need to get started**, grouped into categories:
+
 
 ---
 
