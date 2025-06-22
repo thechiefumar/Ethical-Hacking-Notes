@@ -86,6 +86,4 @@ Familiarize yourself with these widely used tools:
 | **Intermediate** | Vulnerability scanning, exploitation, CEH or TryHackMe |
 | **Advanced**     | OSCP, Red Teaming, advanced exploits, custom scripts   |
 
----
 
-Would you like a **step-by-step roadmap** tailored to your current experience level (e.g., beginner or intermediate)? I can build one for you.
